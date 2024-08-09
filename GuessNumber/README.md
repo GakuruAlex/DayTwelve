@@ -1,3 +1,3 @@
 # Number Guessing Game #
 
-run main.py
+run python main.py
